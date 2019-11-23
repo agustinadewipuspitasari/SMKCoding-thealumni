@@ -1,0 +1,60 @@
+<resources>
+
+    <string-array name="pilihjurusan">
+        <item >--Pilih--</item>
+        <item >RPL</item>
+        <item >Akuntansi</item>
+        <item >Administrasi Perkantoran</item>
+        <item >Pemasaran</item>
+    </string-array>
+
+    <string-array name="thlulus">
+        <item >--Pilih--</item>
+        <item > 2013</item>
+        <item > 2014</item>
+        <item > 2015</item>
+        <item > 2016</item>
+        <item > 2017</item>
+        <item > 2018</item>
+        <item > 2019</item>
+        <item > 2020</item>
+    </string-array>
+
+    <string name="app_name">thealumni</string>
+    <string name="image">image</string>
+    <string name="username">username</string>
+    <string name="masukkan_username">masukkan_username</string>
+    <string name="password">password</string>
+    <string name="masukkan_password">masukkan_password</string>
+    <string name="biodata">biodata</string>
+    <string name="loker">loker</string>
+    <string name="riwayat">riwayat</string>
+    <string name="ruang">ruang</string>
+    <string name="cari">cari</string>
+    <string name="lihat_selengkapnya">lihat selengkapnya</string>
+    <string name="lihat_alumni">Lihat Alumni</string>
+    <string name="cari_kerja_yuk">cari kerja yuk</string>
+    <string name="info_loker">Info Loker</string>
+    <string name="isi_biodata_kalian">isi biodata kalian</string>
+    <string name="biodata_alumni">Biodata Alumni</string>
+    <string name="thealumni">theALUMNI</string>
+    <string name="login">Login</string>
+    <string name="login_form">Login Form</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="nganggur">Nganggur</string>
+    <string name="wirausaha">Wirausaha</string>
+    <string name="kerja">Kerja</string>
+    <string name="kuliah">Kuliah</string>
+    <string name="pendidikan_sekarang_t_t">Pendidikan Sekarang\t\t:</string>
+    <string name="tanggal_lahir_t">Tanggal Lahir\t:</string>
+    <string name="tempat_lahir_t">Tempat Lahir\t:</string>
+    <string name="tahun_lulus_t_t_t_t_t">Tahun Lulus\t\t\t\t\t:</string>
+    <string name="jurusan_t_t_t_t_t_t">Jurusan\t\t\t\t\t\t:</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki - laki</string>
+    <string name="jenis_kelamin_t">Jenis Kelamin\t:</string>
+    <string name="nama_t_t">Nama\t\t:</string>
+    <string name="bio_alumni">BIO ALUMNI</string>
+    <string name="tempat_lahir_t_t">Tempat lahir\t\t :</string>
+
+</resources>

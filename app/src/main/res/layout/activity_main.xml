@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.thealumni.MainActivity">
+
+    <TextView
+        android:text="Login Form"
+        android:textColor="@color/white"
+        android:layout_width="207dp"
+        android:layout_height="59dp"
+        android:id="@+id/textView"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteY="34dp"
+        tools:layout_editor_absoluteX="89dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp"/>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="67dp"
+        android:layout_height="88dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="99dp"
+        android:gravity="center_horizontal"
+        android:src="@drawable/padlock" />
+
+    <EditText
+        android:layout_width="322dp"
+        android:layout_height="64dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/username"
+        android:hint="Username"
+        tools:layout_editor_absoluteY="134dp"
+        tools:layout_editor_absoluteX="38dp"
+        android:layout_marginTop="100dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/password"
+        android:layout_alignStart="@+id/password"/>
+
+    <EditText
+        android:layout_width="319dp"
+        android:layout_height="56dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/password"
+        android:hint="Password"
+        tools:layout_editor_absoluteY="314dp"
+        tools:layout_editor_absoluteX="38dp"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/username"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:text="login"
+        android:layout_width="136dp"
+        android:layout_height="55dp"
+        android:id="@+id/btnLogin"
+        tools:layout_editor_absoluteY="314dp"
+        tools:layout_editor_absoluteX="124dp"
+        android:layout_marginTop="42dp"
+        android:layout_below="@+id/password"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

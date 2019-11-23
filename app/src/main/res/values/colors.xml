@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD700</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+        <color name="blue">#54EBFF</color>
+        <color name="blueindigo">#594BBC</color>
+        <color name="indigo">#5e3b78</color>
+
+        <color name="yellow">#ffff5e</color>
+        <color name="yellowgreen">#ADFF5B</color>
+        <color name="green">#5bff5b</color>
+        <color name="white">#ffffff</color>
+        <color name="black"> #000000</color>
+
+    <color name="lingkaran_busines">#964B00</color>
+    <color name="lingkaran_person">#FF7F00</color>
+    <color name="lingkaran_search">#FF4500</color>
+
+
+    </resources>
